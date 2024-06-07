@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Postcdz
+from .models import Post
 # Register your models here.
 
 
